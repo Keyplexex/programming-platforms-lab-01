@@ -1,0 +1,6 @@
+simple
+legacy
+*.o
+*.i
+*.s
+.DS_Store
